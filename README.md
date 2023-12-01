@@ -12,7 +12,7 @@ This makes me a developer profile sensitive to brand identity and communciation.
 
 ![color picker](https://media.giphy.com/media/v2A81Lm2MglLa/giphy.gif)
 
-## My skills (languages & frameworks) 🤹‍♂️
+## My skills (languages / frameworks / libraries) 🤹‍♂️
 
 ### Web Development
 
@@ -22,6 +22,8 @@ This makes me a developer profile sensitive to brand identity and communciation.
 ![Static Badge](https://img.shields.io/badge/CSS%203-blue?logo=css3&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Javascript-yellow?logo=javascript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Twig-green?logo=&logoColor=white)
+![Static Badge](https://img.shields.io/badge/gulp-lightyellow?logo=gulp&logoColor=black)
+
 
 #### Back-End
 
