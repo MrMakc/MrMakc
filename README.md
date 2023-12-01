@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2054%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-631.5%20thousand%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%207%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -35,20 +33,8 @@ Sunday                   10 commits          █░░░░░░░░░░�
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in PHP** 
 
-```text
-PHP                      4 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
-HTML                     3 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Twig                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-```
-
-
-
-
- Last Updated on 01/12/2023 12:34:26 UTC
+ Last Updated on 01/12/2023 12:42:08 UTC
 <!--END_SECTION:waka-->
 
 <!--
