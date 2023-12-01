@@ -70,7 +70,7 @@ This makes me a developer profile sensitive to brand identity and communciation.
 ### Some statistics about my work 📊
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2037%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -99,11 +99,15 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 hr 28 mins        █████████░░░░░░░░░░░░░░░░   37.62 % 
+PHP                      43 mins             █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
+textmate                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+Twig                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+YAML                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
 ```
 
 
- Last Updated on 01/12/2023 23:36:49 UTC
+ Last Updated on 01/12/2023 23:48:32 UTC
 <!--END_SECTION:waka-->
 
 <!--
