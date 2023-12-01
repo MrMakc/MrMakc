@@ -1,14 +1,14 @@
 # Welcome to my Github profile 👋
 
-Hi, and welcome to my Github profile. Here you can find lot of information about me, my daily work and list of my projects.
+Hi, and welcome to my Github profile. Here you can find lot of informations about me, my daily work and list of my projects.
 
 ## About me 🙋‍♂️
 
 I'm Maxime Hinderschiette and I'm a french web developper. I'm currently studiyng at ESGI (first year of a Master's Degree in Web Engineering) in Lyon and working at a digital agency called acti.
 
-During my school path, I had the opportnity to learn a lot of things about web, but also about other interesting domain like Graphic Design, Video Editing, 3D modeling, Marketing and Communication.
+During my school path, I had the opportnity to learn a lot of things about web, but also about other interesting domains like Graphic Design, Video Editing, 3D modeling, Marketing and Communication.
 
-This makes me a developer profile sensitive to brand identity and communciation. This knowledge also allows me to easily understand and interact with my co-worker like designers, community managers or any other job in a web agency
+This makes me a developer profile sensitive to brand identity and communciation. This knowledges also allows me to easily understand and interact with my co-workers like designers, community managers or another jobs in a web agency
 
 ![color picker](https://media.giphy.com/media/v2A81Lm2MglLa/giphy.gif)
 
