@@ -70,7 +70,7 @@ This makes me a developer profile sensitive to brand identity and communciation.
 ### Some statistics about my work 📊
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%202%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -107,7 +107,7 @@ Bash                     11 mins             ██░░░░░░░░░�
 ```
 
 
- Last Updated on 21/12/2023 22:51:56 UTC
+ Last Updated on 21/12/2023 23:10:18 UTC
 <!--END_SECTION:waka-->
 
 <!--
